@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.user {
+  
+  background: #f2f7f8;
+  color: #40424a;
+  height: max-content;
+  width: 25rem;
+  display: block;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
